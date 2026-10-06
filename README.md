@@ -1,2 +1,3 @@
-# dockerApi
-Criação de estudo com Docker, subindo uma aplicação
+# Bot API
+
+Bot de carreira com chat (LLM) e busca de vagas, projeto de estudo de DevOps.
